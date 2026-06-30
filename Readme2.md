@@ -53,6 +53,3 @@ Thank you for using BMI Calculator!
 - BMI history storage
 - Graphical BMI chart
 - Support for height in centimeters and feet/inches
-
-## Author
-Jahnavi Gopisetty
